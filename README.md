@@ -6,7 +6,7 @@ The aim is to analyze how model depth and architecture impact performance and ac
 ---
 
 ## 📊 Dataset
-- **Dataset Used:** MNIST Handwritten Digits  
+- **Dataset Used:** [MNIST Handwritten Digits](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv) 
 - **Description:** The dataset contains 70,000 grayscale images of handwritten digits (0–9), each of size 28×28 pixels.  
 - **Training Samples:** 60,000  
 - **Testing Samples:** 10,000  
